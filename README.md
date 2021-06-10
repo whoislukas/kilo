@@ -12,5 +12,7 @@ Tai pat **date_lst = ["06/09/2021"]** bei **date_all_sku("06/09/2021")** data pa
 
 And thats all, spaudziat Run ir apacioje ismes pasirinktos dienos orderiu skaicius. 
 
+Video guide, kaip isirasius Anaconda - Navigator paleisti programa: https://streamable.com/ecla4n
+
 Tikiuosi greitu metu sukursiu kazka labiau user-friendly, bet kol kas jeigu rasite kokiu klaideliu ar atsinaujinusiu SKU, rastelkit, sutvarkysiu :)
 
