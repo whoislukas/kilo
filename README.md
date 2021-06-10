@@ -4,7 +4,7 @@ Sveiki,
 
 Cia rasite atnaujinimus, mano mazu projektu @ kilo.health
 
-**Duom.ipynb** <- Jupyter Notebookas, kuri atsisiuntus ir atsidarius per Anaconda Appsa parsisiuntimo nuoroda: [alink] (https://www.anaconda.com/products/individual-b) galesite atlikti Shipmonko raporto duomenu analize. 
+**Duom.ipynb** <- Jupyter Notebookas, kuri atsisiuntus ir atsidarius per Anaconda Appsa parsisiuntimo nuoroda: https://www.anaconda.com/products/individual-b galesite atlikti Shipmonko raporto duomenu analize. 
 
 NOTE: 2 eiluteje  **open_data = open("data5.csv")** reikia pakeisti data5.csv i jusu pervadinto failo varda. Kiekviena karta siunciantis nauja raporta, siulau vadintis tai pat, pries tai istrinant senaji, ir ji isideti i dedikuota faila ten pat kur ir isidesite  **Duom.ipyn** notebooka.
 
